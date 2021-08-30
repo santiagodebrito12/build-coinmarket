@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Coinmarket/static/css/main.7f9e8ba7.chunk.css",
+    "main.js": "/Coinmarket/static/js/main.a4b5de02.chunk.js",
+    "main.js.map": "/Coinmarket/static/js/main.a4b5de02.chunk.js.map",
+    "runtime-main.js": "/Coinmarket/static/js/runtime-main.77d3c5ca.js",
+    "runtime-main.js.map": "/Coinmarket/static/js/runtime-main.77d3c5ca.js.map",
+    "static/js/2.e02c993a.chunk.js": "/Coinmarket/static/js/2.e02c993a.chunk.js",
+    "static/js/2.e02c993a.chunk.js.map": "/Coinmarket/static/js/2.e02c993a.chunk.js.map",
+    "static/js/3.2745bfbb.chunk.js": "/Coinmarket/static/js/3.2745bfbb.chunk.js",
+    "static/js/3.2745bfbb.chunk.js.map": "/Coinmarket/static/js/3.2745bfbb.chunk.js.map",
+    "index.html": "/Coinmarket/index.html",
+    "static/css/main.7f9e8ba7.chunk.css.map": "/Coinmarket/static/css/main.7f9e8ba7.chunk.css.map",
+    "static/js/2.e02c993a.chunk.js.LICENSE.txt": "/Coinmarket/static/js/2.e02c993a.chunk.js.LICENSE.txt",
+    "static/media/logo4.ad886689.svg": "/Coinmarket/static/media/logo4.ad886689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77d3c5ca.js",
+    "static/js/2.e02c993a.chunk.js",
+    "static/css/main.7f9e8ba7.chunk.css",
+    "static/js/main.a4b5de02.chunk.js"
+  ]
+}
